@@ -75,7 +75,7 @@ const ContactUs = () => {
                 <FaMapMarkerAlt /> Delhi, India
               </div>
               <div className="flex items-center gap-2">
-                <FaPhoneAlt /> +91 98765 43210
+                <FaPhoneAlt /> +91 9661034151
               </div>
               <div className="flex items-center gap-2">
                 <FaEnvelope /> info@siteforceconsultants.com
@@ -156,7 +156,7 @@ const ContactUs = () => {
 
       {/* WhatsApp */}
       <a
-        href="https://wa.me/919876543210"
+        href="https://wa.me/9661034151"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-6 right-6 bg-green-500 p-4 rounded-full animate-pulse shadow-lg"
