@@ -35,8 +35,8 @@ const Banner = () => {
   if (!banner) {
     return (
       <div className="flex justify-center items-center h-80 bg-gray-900">
-        <p className="text-red-400 text-lg">Banner not available</p>
-        {/* <img src="Hero_Banner_w__Logo_1.png" alt="" width={"100%"} /> */}
+        {/* <p className="text-red-400 text-lg">Banner not available</p> */}
+         <img src="Hero_Banner_w__Logo_1.png" alt="" width={"100%"} />
       </div>
     );
   }
